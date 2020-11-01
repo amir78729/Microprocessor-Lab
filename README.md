@@ -14,4 +14,5 @@
 - [Lab 1](https://github.com/amir78729/Microprocessor-Lab/tree/master/Lab-01)
 - [Lab 2](https://github.com/amir78729/Microprocessor-Lab/tree/master/Lab-02)
 - [Lab 3](https://github.com/amir78729/Microprocessor-Lab/tree/master/Lab-03)
+- [Lab 4](https://github.com/amir78729/Microprocessor-Lab/tree/master/Lab-04)
 

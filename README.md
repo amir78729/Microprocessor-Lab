@@ -16,5 +16,5 @@
 - [Lab 3](https://github.com/amir78729/Microprocessor-Lab/tree/master/Lab-03)
 - [Lab 4](https://github.com/amir78729/Microprocessor-Lab/tree/master/Lab-04)
 - [Lab 5](https://github.com/amir78729/Microprocessor-Lab/tree/master/Lab-05)
-- [Lab 6](https://github.com/amir78729/Microprocessor-Lab/tree/master/Lab-06)
+- [Lab 6 (Safety Box)](https://github.com/amir78729/Microprocessor-Lab/tree/main/Lab-06%20(Safety%20Box))
 

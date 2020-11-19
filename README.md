@@ -9,7 +9,7 @@
 - [Amirhossein Alibakhshi](https://github.com/amir78729)
 
 
-### 🧪Experiments
+### 💻 Labs:
 
 - [Lab 1](https://github.com/amir78729/Microprocessor-Lab/tree/master/Lab-01)
 - [Lab 2](https://github.com/amir78729/Microprocessor-Lab/tree/master/Lab-02)
@@ -17,5 +17,5 @@
 - [Lab 4](https://github.com/amir78729/Microprocessor-Lab/tree/master/Lab-04)
 - [Lab 5](https://github.com/amir78729/Microprocessor-Lab/tree/master/Lab-05)
 - [Lab 6 (Safety Box)](https://github.com/amir78729/Microprocessor-Lab/tree/main/Lab-06%20(Safety%20Box))
-- [Lab-6 (Vending Machine)](https://github.com/amir78729/Microprocessor-Lab/tree/main/Lab-06%20(Vending%20Machine))
+- [Lab 6 (Vending Machine)](https://github.com/amir78729/Microprocessor-Lab/tree/main/Lab-06%20(Vending%20Machine))
 

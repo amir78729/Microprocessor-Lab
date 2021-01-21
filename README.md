@@ -28,3 +28,7 @@
 - [Lab 7 (Washing Machine using I²C protocol)](https://github.com/amir78729/Microprocessor-Lab/tree/main/Lab-07%20(washing%20machine))
 - [Lab 8 (Sending data using SPI protocol)](https://github.com/amir78729/Microprocessor-Lab/tree/main/Lab-08)
 - [Lab 9 (Playing Music Using Arduino)](https://github.com/amir78729/Microprocessor-Lab/tree/main/Lab-09)
+
+---
+
+### 💻 Final Project:

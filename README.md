@@ -32,3 +32,4 @@
 ---
 
 ### 💻 Final Project:
+- [Water Dance](https://github.com/amir78729/Microprocessor-Lab/tree/main/Final%20Project)
